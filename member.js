@@ -1,4 +1,4 @@
-function skillsMemeber() {
+function skillsMember() {
   const skills = document.querySelector('.skills');
   const skillsTop = skills.offsetTop;
   const skillsHeight = skills.offsetHeight;
